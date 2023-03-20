@@ -1,13 +1,10 @@
 #include <stdio.h>
-
 /**
- * main - this is the main function 
- *
- * retun: 0 when successfull
+ * main - print a given output
+ * retour: always 0 (succcess)
  */
-
 int main(void)
 {
-    printf("with proper grammar, but the outcome is a piece of art,\n");
-    return 0;
+	printf("With proper grammar, but the outcome is a work of art,\n");
+	return (0);
 }
