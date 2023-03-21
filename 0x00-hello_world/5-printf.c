@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - print a given output
- * retour: always 0 (succcess)
+ * main - print "with proper grammar, but the outcome is a piece of art," followed newline
+ * retour: always 0.
  */
 int main(void)
 {
